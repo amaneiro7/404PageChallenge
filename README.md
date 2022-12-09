@@ -37,8 +37,6 @@
 
 ![screenshot](https://raw.githubusercontent.com/amaneiro7/404PageChallenge/main/img/solution.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - You can find this demo in https://amaneiro7.github.io/404PageChallenge, the porpuse of this project was  to put in practice all my knowledge adquire at the moment, tryng to improve my sass skills, for my next challenge I want to pu in practice other tools like tailwinds and npm and webpacks
 
 
