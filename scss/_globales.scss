@@ -25,7 +25,7 @@ body {
     height: auto;    
     margin-bottom: 4rem;
     @include media(tablet) {
-        margin: 0;
+        margin: 0 0 160px 0;
     }
     &__title {
         font-family: $fuente2;
